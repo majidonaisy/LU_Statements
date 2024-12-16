@@ -3,7 +3,63 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StatementDatabase/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\employeelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\employeelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\admindashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\admindashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\employeedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\employeedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\adminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\adminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StatementDatabase/True/SqlTable/dbo.Applications.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\apply.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\apply.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,11 +69,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 374,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -37,13 +93,181 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\AddEmployee.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\AddEmployee.cshtml",
+              "RelativeToolTip": "StatementApplication\\Pages\\AddEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:48:49.018Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "dbo.Students [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StatementDatabase/True/SqlTable/dbo.Students.sql",
-              "ToolTip": "dbo.Students [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-14T17:35:14.761Z",
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\AdminDashboard.cshtml",
+              "RelativeToolTip": "StatementApplication\\Pages\\AdminDashboard.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:30:13.293Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\AdminLogin.cshtml",
+              "RelativeToolTip": "StatementApplication\\Pages\\AdminLogin.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:19:37.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StatementApplication\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Models\\Student.cs",
+              "RelativeToolTip": "StatementApplication\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:00:47.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\Apply.cshtml",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\Apply.cshtml",
+              "RelativeToolTip": "StatementApplication\\Pages\\Apply.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFkAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T21:43:16.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Apply.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\Apply.cshtml.cs",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\Apply.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\Apply.cshtml.cs",
+              "RelativeToolTip": "StatementApplication\\Pages\\Apply.cshtml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAlwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:41:00.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\Login.cshtml",
+              "RelativeToolTip": "StatementApplication\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T16:41:49.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\EmployeeLogin.cshtml",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\EmployeeLogin.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\EmployeeLogin.cshtml",
+              "RelativeToolTip": "StatementApplication\\Pages\\EmployeeLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:20:15.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StatementApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T20:49:50.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\AdminDashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\AdminDashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\AdminDashboard.cshtml.cs",
+              "RelativeToolTip": "StatementApplication\\Pages\\AdminDashboard.cshtml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:36:08.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\EmployeeDashboard.cshtml",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\EmployeeDashboard.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\EmployeeDashboard.cshtml",
+              "RelativeToolTip": "StatementApplication\\Pages\\EmployeeDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:09:07.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\AdminLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\AdminLogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\AdminLogin.cshtml.cs",
+              "RelativeToolTip": "StatementApplication\\Pages\\AdminLogin.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:28:30.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Applications.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StatementDatabase/True/SqlTable/dbo.Applications.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StatementDatabase/True/SqlTable/dbo.Applications.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-16T22:11:43.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "StatementApplication\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:46:44.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "StatementApplication\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\StatementApplication\\Pages\\Register.cshtml",
+              "RelativeToolTip": "StatementApplication\\Pages\\Register.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T20:35:55.322Z"
             }
           ]
         },
