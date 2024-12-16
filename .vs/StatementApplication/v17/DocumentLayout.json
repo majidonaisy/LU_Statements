@@ -1,6 +1,5 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\",
   "Documents": [
     {
@@ -63,10 +62,6 @@
       "RelativeMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|solutionrelative:statementapplication\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
-=======
-  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\StatementApplication\\",
-  "Documents": [],
->>>>>>> dd526c5e541d92ed5ef10ff08066a0095ff3620f
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -74,11 +69,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 374,
-<<<<<<< HEAD
           "SelectedChildIndex": 6,
-=======
-          "SelectedChildIndex": -1,
->>>>>>> dd526c5e541d92ed5ef10ff08066a0095ff3620f
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,7 +90,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{673a989b-a429-376c-a584-d56b20ce6e41}"
-<<<<<<< HEAD
             },
             {
               "$type": "Document",
@@ -278,8 +268,6 @@
               "ViewState": "AgIAADQAAAAAAAAAAAAQwEcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-16T20:35:55.322Z"
-=======
->>>>>>> dd526c5e541d92ed5ef10ff08066a0095ff3620f
             }
           ]
         },

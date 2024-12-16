@@ -1,7 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\",
 <<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\StatementApplication\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{518FF9C3-EA5F-47CC-82DF-236834FEAC12}|StatementApplication\\StatementApplication.csproj|c:\\users\\hp\\source\\repos\\statementapplication\\statementapplication\\pages\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -64,6 +64,7 @@
     }
   ],
 =======
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\StatementApplication\\",
   "Documents": [],
 >>>>>>> dd526c5e541d92ed5ef10ff08066a0095ff3620f
   "DocumentGroupContainers": [
